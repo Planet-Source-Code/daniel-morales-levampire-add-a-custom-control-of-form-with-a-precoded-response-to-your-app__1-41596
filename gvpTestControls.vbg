@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=proDllTest.vbp
+Project=proExeTest.vbp
+Project=proOcxTest.vbp
